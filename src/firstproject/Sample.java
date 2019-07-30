@@ -9,7 +9,7 @@ package firstproject;
  *
  * @author Elliot
  */
-public class Sample {
+public class Sample{
 
     /**
      * @param args the command line arguments
